@@ -6,5 +6,5 @@ python,
 pyautogui,
 time.
 
-# License
+# "License"
 You can steal it, but add my and Scriptian's name in it.
